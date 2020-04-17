@@ -94,6 +94,15 @@ header {
         header .nav_wrapper ul li.active a {
           color: #005490; } }
 
+
+.pickup_and_delivery_banner {
+  background-color: #005490;
+  color: white;
+  text-align: center;
+  font-size: 26px; 
+  font-weight: 600;
+  text-transform: capitalize;}
+
 .burger-slim {
   background: transparent;
   position: absolute;
